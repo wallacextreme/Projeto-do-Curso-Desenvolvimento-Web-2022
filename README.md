@@ -2,7 +2,7 @@
 
 [![HTML5](https://img.shields.io/badge/HTML5-Semântico-E34F26?style=flat-square&logo=html5&logoColor=white)](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
 [![CSS3](https://img.shields.io/badge/CSS3-Básico-1572B6?style=flat-square&logo=css3&logoColor=white)](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
-[![License](https://img.shields.io/badge/License-MIT-blue?style=flat-square)](LICENSE)
+[![Status](https://img.shields.io/badge/Status-Portfolio_Project-blue?style=flat-square)](#)
 
 Website institucional multi-páginas para universidade fictícia (**UNES — Universidade Nacional do Espírito Santo**), consolidando conceitos fundamentais de estruturação web, links relativos, tabelas, formulários de contato e hierarquia de cabeçalhos.
 
